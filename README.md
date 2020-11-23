@@ -1,7 +1,7 @@
 # fundamentosWeb-Lucas-e-Mark 👨‍💻
-* Item 1 ✔😁
-* Item 2 ✔😁
-* Item 3 ✔😁
-* Item 4 ✔😁
-* Item 5 ✔😁
-* Item 6 ✔😁
+* Fundamento Web 1 ✔😁
+* Fundamentos Web 2 ✔😁
+* Fundamentos Web 3 ✔😁
+* Fundamentos Web 4 ✔😁
+* Fundamentos Web 5 ✔😁
+* Fundamentos Web 6 ✔😁
